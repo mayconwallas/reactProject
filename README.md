@@ -1,2 +1,2 @@
 # reactProject
-Projeto para ajudar a fixar os conhecimentos.
+Repositorio criado para aprender e fixar conhecimentos, aberto a sugestões e criticas construtivas.
