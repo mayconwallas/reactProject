@@ -1,15 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
+import Cabecalho from './componentes/Cabecalho/Index.js'
+import Main from './componentes/Main/Index.js';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Bem-vindo ao React!
-        </p>
-      </header>
+      <Cabecalho/>
+      <Main/>
     </div>
   );
 }
